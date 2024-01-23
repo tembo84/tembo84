@@ -2,10 +2,7 @@
 
 ### About Me
 
-I'm Tayo Folayan, a Nigerian American, athletic and always trying to learn new things.
-
-I have an electrical engineering background but I'm trying to transition into Cloud and AI. 
-So far it has been a very frustrating but follow along with me on my journey...
+I'm Tayo Folayan a very motivated developer, always trying to learn new things.
 
 <!--
 **tembo84/tembo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
