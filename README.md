@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Tayo Folayan, I'm a Nigerian American, athletic and always trying to learn new things.
+I'm Tayo Folayan, a Nigerian American, athletic and always trying to learn new things.
 
 I have an electrical engineering background but I'm trying to transition into Cloud and AI. 
 So far it has been a very frustrating but follow along with me on my journey...
