@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## About Me
+### About Me
 
 I'm Tayo Folayan, I'm a Nigerian American, athletic and always trying to learn new things.
 
