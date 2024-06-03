@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Tayo Folayan an electrical engineer transitioning to web-development and cloud.
+I'm Tayo Folayan an Cybersecurity professional enthusiastic about web-development and cloud.
 
 <!--
 **tembo84/tembo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
